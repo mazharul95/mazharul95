@@ -47,6 +47,6 @@ I am an experienced Full-Stack Developer specializing in building robust, high-p
 
 - 💼 ** LinkedIn: ** (https://www.linkedin.com/in/mazharuli95) 
 - 🌐 ** Portfolio Site: ** *Coming Soon*
-- 📧 ** Email: ** mazharul.se23@gmail.com)
+- 📧 ** Email: ** (mazharul.se23@gmail.com)
 
 "Clean code, optimal database schemas, and robust system architecture drive great user experiences."
