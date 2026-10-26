@@ -33,9 +33,9 @@ I am an experienced Full-Stack Developer specializing in building robust, high-p
     *   *Stack:* React, Next.js 14, Tailwind, MDX.
     *   [📁 Source Code](https://github.com/mazharul95/repo-name) | [🌐 Live Demo](https://your-demo-link.com)
 
-*   ** Project_2 ** – A real-time SaaS application tracking complex live metrics. 
-    *   *Stack:* Next.js, TypeScript, Tailwind, PostgreSQL, Prisma.
-    *   [📁 Source Code](https://github.com/mazharul95/repo-name) | [🌐 Live Demo](https://your-demo-link.com)
+*   ** Project_2 ** – Financial infrastructure + AI risk engine. 
+    *   *Stack:* Next.js, TypeScript, Node.js, PostgreSQL preferred for ledger, Redis, Queues, Webhooks, LLM explanation layer.
+    *   [📁 Source Code](https://github.com/mazharul95/FinGuard) | [🌐 Live Demo](https://your-demo-link.com)
       
 *   ** Project 3 ** – An advanced E-commerce platform with automated reporting and PDF generation workflows.
     *   *Stack:* React, Node.js, Express, MongoDB, Tailwind.
